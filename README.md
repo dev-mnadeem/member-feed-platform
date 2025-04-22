@@ -273,3 +273,7 @@ chunk. Measured with `npm run build`.
   rerunning the integration tests under `DATA_DRIVER=prisma`.
 - **The in-memory driver is for tests and the demo only** — not durable, not shared between
   processes, and it sorts the feed in JavaScript.
+
+## Author
+
+[**Muhammad Nadeem**](https://github.com/dev-mnadeem)
